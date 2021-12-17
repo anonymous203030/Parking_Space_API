@@ -19,4 +19,5 @@ class ReserveAdmin(admin.ModelAdmin):
     ordering = ['created_at', 'updated_at']
     search_fields = ['book_time', 'owner', 'created_at', 'updated_at']
 
+
 admin.site.register(ReserveBookTime, ReserveAdmin)
