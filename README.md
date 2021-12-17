@@ -49,3 +49,13 @@ through them.
 
 Also user has Profile section where he/she can add **first name, last name, 
 profile image, birthday, gender and about**.
+
+# DRF-YASG Swagger
+**_Swagger_**
+![alt text](readme_screens/parking_api_1.png)
+![alt text](readme_screens/parking_space_2.png)
+![alt text](readme_screens/parking_space_4.png)
+**_Redoc_**
+![alt text](readme_screens/parking_space_5.png)
+![alt text](readme_screens/parking_space_6.png)
+
